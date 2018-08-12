@@ -1,0 +1,10 @@
+.mt-36 {
+  margin-top: 36px;
+}
+.view-persona {
+  width: 300px;
+  margin: 40px auto;
+}
+.view-persona .ms-Persona-details {
+  text-align: right;
+}
